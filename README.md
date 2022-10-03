@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samuel-del
+- 👋 Hi, I’m @ samuel
 - 👀 I’m interested in softwere devlopment, softwere creation and data analysis  
 - 🌱 I’m currently a computer science student 
-- 💞️ I’m looking to collaborate on any opensource projects 
+- 💞️ I’m would like to collaborate on any opensource projects, hit me up !! 
 - 📫 contact: stessema95@gmail.com
 
 <!---
